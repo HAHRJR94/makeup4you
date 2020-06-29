@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "categoria": "ojos",
+    "image": "definidor_de_cejas.jpg",
+    "brand": "Anastasia Beverly Hills",
+    "price": 100,
+    "name": "Definidor de cejas de Anastasia Beverly Hills"
+  },
+  {
+    "id": 2,
+    "categoria": "rostro",
+    "image": "aceite_facial.jpg",
+    "brand": "Dyptique",
+    "price": 120,
+    "name": "Aceite facial infusionado de Dyptique"
+  },
+  {
+    "id": 3,
+    "categoria": "rostro",
+    "image": "setting_powder.jpg",
+    "brand": "AOA studio",
+    "price": 200,
+    "name": "AOA studio perfect - setting powder"
+  },
+  {
+    "id": 4,
+    "categoria": "ojos",
+    "image": "Beauty_creations_eyebrow.jpg",
+    "brand": "Beauty creations",
+    "price": 80,
+    "name": "Beauty creations eyebrow"
+  },
+  {
+    "id": 5,
+    "categoria": "rostro",
+    "image": "bruma_cicapair.jpg",
+    "brand": "Dr. Jart+",
+    "price": 150,
+    "name": "Bruma Cicapair Tiger Grass Calming de Dr. Jart+"
+  },
+  {
+    "id": 6,
+    "categoria": "rostro",
+    "image": "tritone_blush.jpg",
+    "brand": "city color",
+    "price": 100,
+    "name": "city color tri-tone blush"
+  },
+  {
+    "id": 7,
+    "categoria": "rostro",
+    "image": "oxygen_glow.jpg",
+    "brand": "Filorga",
+    "price": 250,
+    "name": "Desmaquillante Oxygen-Glow Clean de Filorga"
+  },
+  {
+    "id": 8,
+    "categoria": "rostro",
+    "image": "diamon_cocoon.jpg",
+    "brand": "Natura Bissé",
+    "price": 135,
+    "name": "Diamond Cocoon Sheer Cream de Natura Bissé"
+  },
+  {
+    "id": 9,
+    "categoria": "ojos",
+    "image": "eyebrow-kit.jpg",
+    "brand": "e.l.f",
+    "price": 200,
+    "name": "Eyebrow kit de e.l.f"
+  },
+  {
+    "id": 10,
+    "categoria": "rostro",
+    "image": "blotting-powder.jpg",
+    "brand": "Fenty Beauty",
+    "price": 130,
+    "name": "Fenty Beauty Blotting powder"
+  },
+  {
+    "id": 11,
+    "categoria": "labios",
+    "image": "lip-gloss.jpg",
+    "brand": "Hudabeauty",
+    "price": 80,
+    "name": "Hudabeauty lip gloss"
+  },
+  {
+    "id": 12,
+    "categoria": "rostro",
+    "image": "set-go.jpg",
+    "brand": "Jcat",
+    "price": 250,
+    "name": "Jcat spray set go"
+  },
+  {
+    "id": 13,
+    "categoria": "rostro",
+    "image": "espuma_facial.jpg",
+    "brand": "Aloelab",
+    "price": 200,
+    "name": "Espuma facial limpiadora N+R 1 de Aloelab"
+  },
+  {
+    "id": 14,
+    "categoria": "rostro",
+    "image": "bubble-mask.jpg",
+    "brand": "Hydratic",
+    "price": 120,
+    "name": "Hydratic bubble mask"
+  },
+  {
+    "id": 15,
+    "categoria": "ojos",
+    "image": "powder-gel.jpg",
+    "brand": "Prolux",
+    "price": 100,
+    "name": "Eyebrow powder & gel de Prolux"
+  },
+  {
+    "id": 16,
+    "categoria": "ojos",
+    "image": "eyeshadow.jpg",
+    "brand": "Wetnwild",
+    "price": 90,
+    "name": "Wetnwild eyeshadow"
+  },
+  {
+    "id": 17,
+    "categoria": "ojos",
+    "image": "dual-eyeliner.jpg",
+    "brand": "Mac",
+    "price": 120,
+    "name": "Mac dual ended eyeliner"
+  },
+  {
+    "id": 18,
+    "categoria": "labios",
+    "image": "Maybeline-Baby-Lips.jpg ",
+    "brand": "Maybeline",
+    "price": 80,
+    "name": "Maybeline Baby Lips "
+  },
+  {
+    "id": 19,
+    "categoria": "labios",
+    "image": "Burt's-Bees-Natural-Lip-Balm.jpg",
+    "brand": "Burt's-Bees",
+    "price": 90,
+    "name": "Burt's Bees 100% Natural Lip Balm"
+  },
+  {
+    "id": 20,
+    "categoria": "labios",
+    "image": "Honest-Beauty-Tinted-Lip-Balm.jpg",
+    "brand": "Honest-Beauty",
+    "price": 100,
+    "name": "Honest Beauty Tinted Lip Balm"
+  },
+  {
+    "id": 21,
+    "categoria": "labios",
+    "image": "eos-sphere-lip.jpg",
+    "brand": "eos",
+    "price": 90,
+    "name": "eos Super Soft Shea Sphere Lip Balm"
+  },
+  {
+    "id": 22,
+    "categoria": "labios",
+    "image": "DHC-Lip-Cream.jpg",
+    "brand": "DHC",
+    "price": 100,
+    "name": "DHC Lip Cream"
+  },
+  {
+    "id": 23,
+    "categoria": "labios",
+    "image": "Revlon Kiss Lip Balm.jpg",
+    "brand": "Revlon",
+    "price": 110,
+    "name": "Revlon Kiss Lip Balm, Tropical Coconut"
+  },
+  {
+    "id": 24,
+    "categoria": "labios",
+    "image": "NARS-Vervet-Matte-Lip.jpg",
+    "brand": "NARS",
+    "price": 90,
+    "name": "NARS Vervet Matte Lip Pencil"
+  },
+  {
+    "id": 25,
+    "categoria": "labios",
+    "image": "Stila-Liquid-Lipstick.jpg",
+    "brand": "Stila",
+    "price": 80,
+    "name": "Stila Liquid Lipstick Caramello"
+  },
+  {
+    "id": 26,
+    "categoria": "labios",
+    "image": "Anastasia-Liquid-Lispstick.jpg",
+    "brand": "Anastasia",
+    "price": 70,
+    "name": "Anastasia Beverly Hills Liquid Lispstick"
+  },
+  {
+    "id": 27,
+    "categoria": "labios",
+    "image": "Burberry-Beauty-Lip-Velvet.jpg",
+    "brand": "Burberry",
+    "price": 80,
+    "name": "Burberry Beauty Lip Velvet Crush Sheet Matte"
+  },
+  {
+    "id": 28,
+    "categoria": "labios",
+    "image": "Fenty-Beauty-by-Rihanna.jpg",
+    "brand": "Fenty",
+    "price": 90,
+    "name": "Fenty Beauty by Rihanna Makeup Stunna Lipstick"
+  },
+  {
+    "id": 29,
+    "categoria": "cuidado",
+    "image": "CeraVe-Moisturizing-Cream.jpg",
+    "brand": "CeraVe",
+    "price": 200,
+    "name": "CeraVe Moisturizing Cream"
+  },
+  {
+    "id": 30,
+    "categoria": "cuidado",
+    "image": "Cetaphil-Rich-Hydrating-Night-Cream.jpg",
+    "brand": "Cetaphil",
+    "price": 150,
+    "name": "Cetaphil Rich Hydrating Night Cream"
+  },
+  {
+    "id": 31,
+    "categoria": "cuidado",
+    "image": "Neutrogena-Hydro-Boost.jpg",
+    "brand": "Neutrogena",
+    "price": 120,
+    "name": "Neutrogena Hydro Boost"
+  },
+  {
+    "id": 32,
+    "categoria": "cuidado",
+    "image": "SkinCeuticals-AGE-Interrupter.jpg",
+    "brand": "SkinCeuticals",
+    "price": 140,
+    "name": "SkinCeuticals AGE Interrupter"
+  },
+  {
+    "id": 33,
+    "categoria": "cuidado",
+    "image": "OLAY-Regenerist-Cream.jpg",
+    "brand": "OLAY",
+    "price": 250,
+    "name": "OLAY Regenerist Micro-Sculpting Cream"
+  },
+  {
+    "id": 34,
+    "categoria": "cuidado",
+    "image": "Peter-Thomas-Cream.jpg",
+    "brand": "Peter Thomas",
+    "price": 150,
+    "name": "Peter Thomas Roth Water Drench Hyaluronic Cloud Cream"
+  },
+  {
+    "id": 35,
+    "categoria": "cuidado",
+    "image": "Vichy-Aqualia-Cream-Moisturizer.jpg",
+    "brand": "Vichy Aqualia",
+    "price": 200,
+    "name": "Vichy Aqualia Thermal Rich Cream Moisturizer"
+  },
+  {
+    "id": 36,
+    "categoria": "cuidado",
+    "image": "Chantecaille-Retinol-Intense.jpg",
+    "brand": "Chantecaille",
+    "price": 150,
+    "name": "Chantecaille Retinol Intense"
+  },
+  {
+    "id": 37,
+    "categoria": "cuidado",
+    "image": "Tatcha-Water-Cream-Moisturizer.jpg",
+    "brand": "Tatcha",
+    "price": 200,
+    "name": "Tatcha Water Cream Moisturizer"
+  },
+  {
+    "id": 38,
+    "categoria": "cuidado",
+    "image": "Amore-Pacific’s-Intensive-Cream.jpg",
+    "brand": "Amore Pacific's",
+    "price": 250,
+    "name": "Amore Pacific’s Time Response Skin Reserve Intensive Cream"
+  }
+]

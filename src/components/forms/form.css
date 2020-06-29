@@ -1,0 +1,8 @@
+section, footer {
+  background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
+}
+
+footer {
+  border-top: 2px #fff solid;
+  /* color: #000; */
+}
