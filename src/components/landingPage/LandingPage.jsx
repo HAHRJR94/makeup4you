@@ -67,7 +67,7 @@ const LandingPage = () => {
             </div>
           </div>
         </div>
-        <Link to={'/labios'}><h4 className="text-right mt-5">ver más productos</h4></Link>
+        <Link to={'/lips'}><h4 className="text-right mt-5">ver más productos</h4></Link>
         <div className='row justify-content-around mb-5'>
           <div className='card-group '>
             <div className='card'>
@@ -93,7 +93,7 @@ const LandingPage = () => {
             </div>
           </div>
         </div>
-        <Link to={'/cuidado-perdonal'}><h4 className="text-right mt-5">ver más productos</h4></Link>
+        <Link to={'/cuidado-personal'}><h4 className="text-right mt-5">ver más productos</h4></Link>
         <div className='row justify-content-around mb-5'>
           <div className='card-group '>
             <div className='card'>
