@@ -22,7 +22,7 @@ const CuidadoPersonal = () => {
               />
               <div className='card-body'>
                 <h5 className='card-title'>{product.name}</h5>
-                <h2 className=''>$ {product.price}</h2>
+                <h2 className=''>L. {product.price}</h2>
                 <Link to={`/info/${product.id}`} className='btn btn-info btn-block'>
                   Ver información
                 </Link>

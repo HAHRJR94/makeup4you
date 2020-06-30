@@ -47,7 +47,7 @@ const Carrito = () => {
               <div className='col-md-4 '>
                 <h3 className='text-center'>{item.brand}</h3>
                 <h4>{item.name}</h4>
-                <h4 className='font-weight-bold'>$ {item.price}</h4>
+                <h4 className='font-weight-bold'>L. {item.price}</h4>
                 <p className='font-weight-bold'>cant: </p>
               </div>
               <div
@@ -66,7 +66,7 @@ const Carrito = () => {
           <div className='row justify-content-end p-5'>
             <div className='col-md-4 border p-4'>
               <h4 className='text-primary mr-5 mb-4'>
-                Total a pagar: <span className='text-primary ml-5'>$ {subtotal}</span>
+                Total a pagar: <span className='text-primary ml-5'>L. {subtotal}</span>
               </h4>
               <Link to={'/form-pago'} className='btn btn-success btn-block'>Pagar con Visa/Mastercard</Link>
               <Link to={'/form-paypal'} className='btn btn-warning btn-block' >Pagar con paypal</Link>
